@@ -1,0 +1,20 @@
+site_name: bio webpage
+site_description: "Documentation for demo project"
+site_author: "RK"
+
+theme:
+  name: material
+  features:
+    - navigation.top
+    - navigation.sections
+    - search.suggest
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Tutorials:
+      - Quick Start: tutorials/quick-start.md
+      - Advanced: tutorials/advanced.md
+  - API Reference: api-reference.md
+  - FAQ: faq.md
