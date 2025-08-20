@@ -15,6 +15,5 @@ nav:
   - Getting Started: getting-started.md
   - Tutorials:
       - Quick Start: tutorials/quick-start.md
-      - Advanced: tutorials/advanced.md
   - API Reference: api-reference.md
   - FAQ: faq.md
