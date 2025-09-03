@@ -1,6 +1,6 @@
-site_name: bio webpage
-site_description: "Documentation for demo project"
-site_author: "RK"
+site_name: "My Bio Webpage"
+site_description: "A personal webpage showcasing education, experience, and background"
+site_author: "abc"
 
 theme:
   name: material
@@ -10,10 +10,20 @@ theme:
     - search.suggest
     - content.code.copy
 
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/yourusername
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/yourusername
+    - icon: fontawesome/solid/envelope
+      link: mailto:your.email@example.com
+
 nav:
   - Home: index.md
-  - Getting Started: getting-started.md
-  - Tutorials:
-      - Quick Start: tutorials/quick-start.md
-  - API Reference: api-reference.md
-  - FAQ: faq.md
+  - About Me: about.md
+  - Education: education.md
+  - Experience: experience.md
+  - Projects: projects.md
+  - Skills: skills.md
+  - Contact: contact.md

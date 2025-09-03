@@ -1,5 +1,10 @@
-## welcome to my site
+# Welcome
 
-- [Getting Started](getting-started.md)
-- [Tutorials](tutorials/quick-start.md)
-- [API Reference](api-reference.md)
+![Profile Picture](images/profile.jpg){ align=right width="200" }
+
+Hello! 👋  
+Welcome to my personal bio webpage.  
+
+
+---
+✨ Explore the sections to know more about me.
