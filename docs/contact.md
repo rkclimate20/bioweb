@@ -1,7 +1,5 @@
 # Contact
 
-Feel free to reach out to me!
-
-- 📧 Email: [your.email@example.com]  
-- 🔗 LinkedIn: [Your LinkedIn URL]  
-- 🧑‍💻 GitHub: [Your GitHub URL]
+- Email: [kumarirenu18@gmail.com]   
+- GitHub: [rkclimate20](https://github.com/rkclimate20)
+- LinkedIn: [Renu Kumari](https://www.linkedin.com/in/renu-kumari-12337138a/)

@@ -1,6 +1,6 @@
-site_name: "My Bio Webpage"
+site_name: "Renu Kumari"
 site_description: "A personal webpage showcasing education, experience, and background"
-site_author: "abc"
+site_author: "RK"
 
 theme:
   name: material
@@ -13,17 +13,14 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/yourusername
-    - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/yourusername
+      link: https://github.com/rkclimate20
     - icon: fontawesome/solid/envelope
-      link: mailto:your.email@example.com
+      link: mailto:kumarirenu18@gmail.com
 
 nav:
   - Home: index.md
   - About Me: about.md
   - Education: education.md
   - Experience: experience.md
-  - Projects: projects.md
   - Skills: skills.md
   - Contact: contact.md

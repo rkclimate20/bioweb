@@ -1,9 +1,20 @@
 # About Me
 
-I am [Your Name], passionate about [your field / interests].  
-This site serves as a personal portfolio to showcase my journey, achievements, and future aspirations.
+I am **Renu Kumari**, passionate about advancing knowledge in 
+- Plant Biology 
+- Biodiversity  
+- Phytochemistry 
+- Capacity building
+- Resource development and
+- Liberating knowledge from climate reports etc. 
 
-- 🌍 Location: [Your City, Country]
-- 📧 Email: [your.email@example.com]
-- 🔗 LinkedIn: [Your LinkedIn URL]
-- 🧑‍💻 GitHub: [Your GitHub URL]
+
+
+- 🌍 Location: Delhi, India
+- 📧 Email: [kumarirenu18@gmail.com]
+- X: [@epiren20]
+- GitHub: [rkclimate20](https://github.com/rkclimate20)
+- LinkedIn: [Renu Kumari](https://www.linkedin.com/in/renu-kumari-12337138a/)
+
+
+
