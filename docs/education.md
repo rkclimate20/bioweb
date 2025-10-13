@@ -15,3 +15,9 @@
 - **Institution**: Jiwaji University, Gwalior, M.P.  
 - **Year**: 2005  
 - **Subject**: Botany, Zoology and Chemistry
+
+## Academic Awards
+
+- DBT-JRF (2007) Category-A
+- CSIR-NET Lectureship (2006)
+- ARS-NET (2014)

@@ -10,3 +10,9 @@
 - Workshop organization 
 - Internship coordination at #semanticClimate 
 - GitHub project maintenance and open-source collaboration
+
+## Experimental Lab Techniques: (>13years including Ph.D.):
+
+- Adept in all laboratory techniques; Biochemistry, Genomics and Molecular Biology
+- Cloning, purification, Phytochemistry 
+- DNA and RNA extraction and many others
