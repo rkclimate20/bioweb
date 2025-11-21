@@ -1,10 +1,6 @@
-# Upcoming Workshop
-
-- 24 October, 2025 | International Open Access Week 2025 , New York Tech Libraries (Organizing workshop)
-  [Read More](https://semanticclimate.github.io/p/en/events/oaw2025/) 
-
 # Workshop and Conferences
 
+- 24 October, 2025 | International Open Access Week 2025 , New York Tech Libraries (Organizing workshop) [Read More](https://semanticclimate.github.io/p/en/events/oaw2025/) 
 - 11 October, 2025 | Participated in the ILSI India K-FFIG Symposium on NutriGene | Enhancing Functionality of  Crops & Improving Nutrition Status through Gene Editing at Sovereign Hall -1 of Hotel Le Meridien, Windsor Place, Janpath, New Delhi-110001 
 - 10 October, 2025 | Participated in the Indo-Swiss Workshop on 'Research Integrity in the Age of AI' at Bharat Mandapam Convention Centre, New Delhi
 - 27 August, 2025 | [Climate Quest](https://semanticclimate.github.io/p/en/past-events/climate_school/) (Explore science and philosophy of climate change in a fun and interactive way) 
