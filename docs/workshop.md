@@ -1,5 +1,7 @@
 # Workshop and Conferences
 
+- 28 January, 2026 | FAIR and Reproducible Structural Biology [Read More](https://semanticclimate.github.io/p/en/events/JAN2026_workshop/) | [see pictures](https://semanticclimate.github.io/p/en/posts/bioAIJan2026_pics/)
+- 16 January, 2026 | BIF-DD-2026 | 13th Workshop on Bioinformatics and Drug Design (organizes hands-on session on AI for Literature Reviews: Case Study: Drug Discovery) [Read More](https://semanticclimate.github.io/p/en/events/BIF_DD2026/) | [see pictures](https://semanticclimate.github.io/p/en/posts/ACBR_event/)
 - 24 October, 2025 | International Open Access Week 2025 , New York Tech Libraries (Organizing workshop) [Read More](https://semanticclimate.github.io/p/en/events/oaw2025/) | [see pictures](https://semanticclimate.github.io/p/en/posts/photoDay2_OAW25/)
 - 11 October, 2025 | Participated in the ILSI India K-FFIG Symposium on NutriGene | Enhancing Functionality of  Crops & Improving Nutrition Status through Gene Editing at Sovereign Hall -1 of Hotel Le Meridien, Windsor Place, Janpath, New Delhi-110001 
 - 10 October, 2025 | Participated in the Indo-Swiss Workshop on 'Research Integrity in the Age of AI' at Bharat Mandapam Convention Centre, New Delhi | [Read about the event](https://semanticclimate.github.io/p/en/events/res_integrity/)
