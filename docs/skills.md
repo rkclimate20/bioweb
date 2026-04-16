@@ -3,7 +3,7 @@
 ## Core Skills:
 
 ### Writing, Communication and Data Analysis
-- Published data-driven articles/blogs explaining complex topics (climate, biodiversity, AI, etc.) for a general audience
+- Published data-driven [articles](https://rkclimate20.github.io/bioweb/publications/)/[blogs](https://semanticclimate.github.io/p/en/posts/) explaining complex topics (climate, biodiversity, [AI](https://semanticclimate.github.io/p/en/posts/AI_research/), etc.) for a general audience
 - Translated technical research and datasets into clear, engaging narratives
 - Demonstrated ability to frame important global questions and communicate evidence-based insights
 - Experience writing for non-specialist audiences (blogs, reports, websites, etc.)
