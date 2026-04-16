@@ -1,5 +1,7 @@
 # Workshop and Conferences
 
+- 24-27 March, 2026 | Organized the four day workshop [CODATA India Workshop on Liberation, Extraction & Reuse of Data](https://semanticclimate.github.io/p/en/events/biodiv_March/) at BRIC-NIPGR | Presented and demonstrated semanticClimate toolkits | [see pictures](https://semanticclimate.github.io/p/en/posts/biodiv2026_pics/)
+- 11 March, 2026 | Delivered a lightning talk titled: “Climate Open Data and #semanticClimate” at The Future of Open Data organized by Open Knowledge Foundation to celebrate Open Data Day 2026 | [Read more](https://semanticclimate.github.io/p/en/events/openData/)
 - 28 January, 2026 | FAIR and Reproducible Structural Biology [Read More](https://semanticclimate.github.io/p/en/events/JAN2026_workshop/) | [see pictures](https://semanticclimate.github.io/p/en/posts/bioAIJan2026_pics/)
 - 16 January, 2026 | BIF-DD-2026 | 13th Workshop on Bioinformatics and Drug Design (organizes hands-on session on AI for Literature Reviews: Case Study: Drug Discovery) [Read More](https://semanticclimate.github.io/p/en/events/BIF_DD2026/) | [see pictures](https://semanticclimate.github.io/p/en/posts/ACBR_event/)
 - 24 October, 2025 | International Open Access Week 2025 , New York Tech Libraries (Organizing workshop) [Read More](https://semanticclimate.github.io/p/en/events/oaw2025/) | [see pictures](https://semanticclimate.github.io/p/en/posts/photoDay2_OAW25/)
