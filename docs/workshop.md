@@ -1,5 +1,7 @@
 # Workshop and Conferences
 
+- 18 May, 2026 | Organized the Online Roundtable Discussion on **How to Create Responsible and Trustworthy Climate Chatbot** with Open Knowledge Foundation and The Climate Academy | [Read more](https://semanticclimate.github.io/p/en/events/climate_chatbot/)
+- 04-06 May, 2026 | Participated in the **Making Replications Count Spring Hackathon**, from 04-06 May, 2026 at Münster Center for Open Science, **University of Münster, Germany** | [Read more](https://openscience.lib.cas.cz/en/education/spring-hackathon-making-replications-count/)
 - 24-27 March, 2026 | Organized the four day workshop [CODATA India Workshop on Liberation, Extraction & Reuse of Data](https://semanticclimate.github.io/p/en/events/biodiv_March/) at BRIC-NIPGR | Presented and demonstrated semanticClimate toolkits | [see pictures](https://semanticclimate.github.io/p/en/posts/biodiv2026_pics/)
 - 11 March, 2026 | Delivered a lightning talk titled: “Climate Open Data and #semanticClimate” at The Future of Open Data organized by Open Knowledge Foundation to celebrate Open Data Day 2026 | [Read more](https://semanticclimate.github.io/p/en/events/openData/)
 - 28 January, 2026 | FAIR and Reproducible Structural Biology [Read More](https://semanticclimate.github.io/p/en/events/JAN2026_workshop/) | [see pictures](https://semanticclimate.github.io/p/en/posts/bioAIJan2026_pics/)

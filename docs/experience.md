@@ -1,3 +1,15 @@
+# Awards & Achievements
+
+- DBT-JRF 2007 (Category A) 
+- CSIR-NET Lectureship (2006) 
+- ARS-NET (2014)
+- Received a travel grant to participate in the Making Replications Count Spring Hackathon, from 04-06 May, 2026 at Münster Center for Open Science, University of Münster, Germany
+
+- Received fellowship to participate in DEST Hackathon 2025 (AI for digital evidence synthesis) held at Potsdam, Germany from 10-12 July, 2025.
+
+- Member of NGO involved in co-ordinating and organizing Biological Diversity meetings as young scientist from India in the COP 14 (Conferences of Parties to the Convention on Biological Diversity, Sharm El-Sheikh, Egypt, 17-19 November, 2018)
+
+
 # Experience
 
 ## Program Manager 
