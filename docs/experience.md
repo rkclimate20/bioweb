@@ -1,20 +1,12 @@
-# Awards & Achievements
-
-- DBT-JRF 2007 (Category A) 
-- CSIR-NET Lectureship (2006) 
-- ARS-NET (2014)
-- Received a travel grant to participate in the Making Replications Count Spring Hackathon, from 04-06 May, 2026 at Münster Center for Open Science, University of Münster, Germany
-
-- Received fellowship to participate in DEST Hackathon 2025 (AI for digital evidence synthesis) held at Potsdam, Germany from 10-12 July, 2025.
-
-- Member of NGO involved in co-ordinating and organizing Biological Diversity meetings as young scientist from India in the COP 14 (Conferences of Parties to the Convention on Biological Diversity, Sharm El-Sheikh, Egypt, 17-19 November, 2018)
-
-
 # Experience
+
+## Research Associate III
+- **Organization**: BRIC-National Institute of Plant Genome Research, Aruna Asaf Ali Marg, New Delhi-110067  
+- **Year of joining**: 2026
 
 ## Program Manager 
 - **Organization**: semanticClimate 
-- **Year of joining**: 2023-till date
+- **Year of joining**: 2023-2026
 - **Responsibilities**:
   - Resources creation for Climate knowledge and automated literature review [Click Here](https://semanticclimate.github.io/p/en/posts/resources/)
   - Maintainer of the [semanticClimate website](https://semanticclimate.github.io/p/en/)
@@ -36,4 +28,16 @@
 - **Responsibilities**:
   - Worked on the CSIR funded project entitled "Characterization of 3-Hydroxy-3-methylglutaryl co-enzyme A reductase (HMGR) gene in *Cicer
 arietinum*, and its role in abiotic stress".
+
+
+# Awards & Achievements
+
+- DBT-JRF 2007 (Category A) 
+- CSIR-NET Lectureship (2006) 
+- ARS-NET (2014)
+- Received a travel grant to participate in the Making Replications Count Spring Hackathon, from 04-06 May, 2026 at Münster Center for Open Science, University of Münster, Germany
+
+- Received fellowship to participate in DEST Hackathon 2025 (AI for digital evidence synthesis) held at Potsdam, Germany from 10-12 July, 2025.
+
+- Member of NGO involved in co-ordinating and organizing Biological Diversity meetings as young scientist from India in the COP 14 (Conferences of Parties to the Convention on Biological Diversity, Sharm El-Sheikh, Egypt, 17-19 November, 2018)
 
