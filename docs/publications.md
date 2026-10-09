@@ -3,6 +3,7 @@
 ## 2026
 - **Kumari R**, Kumari S, Jadhav SS, Pandey J, Umra M, Chahal P, Yadav G (2026) Structural divergence of stress-inducible HMGR isoforms underpins abiotic stress tolerance in chickpea, Biochemical and Biophysical Research Communications,830, 154202.[https://doi.org/10.1016/j.bbrc.2026.154202](https://www.sciencedirect.com/science/article/pii/S0006291X26009666)
 
+- Chahal P, Agarwal U, Umra M, **Kumari R**, Barbhuiya S, Naqvi AM, Simon W, Yadav G & Murray-Rust P (2026). A Scientific-Literature Question-Answering Pipeline Using Retrieval-Augmented Generation (RAG) (Version 0.1) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.21803196](https://doi.org/10.5281/zenodo.21803196)
 
 ## 2025
 - **Kumari R**, Priti, Mandeep, Murray-Rust P, Simon W and Yadav G (2025) Corpus creation : OA repository retrieval and analysis (0.1). Zenodo. [https://doi.org/10.5281/zenodo.16418987](https://zenodo.org/records/16418987)

@@ -1,5 +1,7 @@
 # Workshop and Conferences
 
+- 14-17 September, 2026 | Conducted one day Hands-on workshop at the International Conference on Bioinformatics (InCoB), Penang, Malaysia on 14 September, 2026 | Title: “**Text to knowledge graph: unlocking science with semantic toolkits**”. [Read more](https://semanticclimate.github.io/p/en/events/InCoB2026/)
+- 27-31 July, 2026 | Participated in FsCI 2026 as the course coordinator and instructor for three days online course. Title: **E01: AI-assisted Literature Review: Building Open, Machine-Readable Literacy for Research and Education, Featuring the Semantic Climate Encyclopedia**. [Read more](https://semanticclimate.github.io/p/en/events/FSCI2026/) 
 - 07 July, 2026 | Organized the Launch of the **Climate Academy Chatbot (CABot)** with Open Knowledge Foundation and The Climate Academy | [Read more](https://semanticclimate.github.io/p/en/events/climate_chatbot/) | [EXPLORE CABot](https://cabot-semanticclimate.org/)
 - 18 May, 2026 | Organized the Online Roundtable Discussion on **How to Create Responsible and Trustworthy Climate Chatbot** with Open Knowledge Foundation and The Climate Academy | [Read more](https://semanticclimate.github.io/p/en/events/climate_chatbot/)
 - 04-06 May, 2026 | Participated in the **Making Replications Count Spring Hackathon**, from 04-06 May, 2026 at Münster Center for Open Science, **University of Münster, Germany** | [Read more](https://openscience.lib.cas.cz/en/education/spring-hackathon-making-replications-count/)
