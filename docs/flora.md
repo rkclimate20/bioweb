@@ -58,6 +58,94 @@
 
   <div class="nature-card">
     <img
+      src="https://res.cloudinary.com/ak0tcgzb/image/upload/v1791525902/7199.jpg"
+      alt="flower photo"
+      loading="lazy"
+    >
+  </div>
+
+  <div class="nature-card">
+    <img
+      src="https://res.cloudinary.com/ak0tcgzb/image/upload/v1791525942/7211.jpg"
+      alt="flower photo2"
+      loading="lazy"
+    >
+  </div>
+
+  <div class="nature-card">
+    <img
+      src="https://res.cloudinary.com/ak0tcgzb/image/upload/v1791525962/7554.jpg"
+      alt="flower photo3"
+      loading="lazy"
+    >
+  </div>
+
+  <div class="nature-card">
+    <img
+      src="https://res.cloudinary.com/ak0tcgzb/image/upload/v1791525986/7700.jpg"
+      alt="flower photo4"
+      loading="lazy"
+    >
+  </div>
+
+  <div class="nature-card">
+    <img
+      src="https://res.cloudinary.com/ak0tcgzb/image/upload/v1791526001/7704.jpg"
+      alt="flower photo5"
+      loading="lazy"
+    >
+  </div>
+
+  <div class="nature-card">
+    <img
+      src="https://res.cloudinary.com/ak0tcgzb/image/upload/v1791526020/7708.jpg"
+      alt="flower photo6"
+      loading="lazy"
+    >
+  </div>
+
+  <div class="nature-card">
+    <img
+      src="https://res.cloudinary.com/ak0tcgzb/image/upload/v1791526040/21453.jpg"
+      alt="flower photo7"
+      loading="lazy"
+    >
+  </div>
+
+  <div class="nature-card">
+    <img
+      src="https://res.cloudinary.com/ak0tcgzb/image/upload/v1791526363/7805.jpg"
+      alt="flower photo8"
+      loading="lazy"
+    >
+  </div>
+
+  <div class="nature-card">
+    <img
+      src="https://res.cloudinary.com/ak0tcgzb/image/upload/v1791526390/7803.jpg"
+      alt="flower photo9"
+      loading="lazy"
+    >
+  </div>
+
+  <div class="nature-card">
+    <img
+      src="https://res.cloudinary.com/ak0tcgzb/image/upload/v1791526419/7799.jpg"
+      alt="flower photo10"
+      loading="lazy"
+    >
+  </div>
+
+  <div class="nature-card">
+    <img
+      src="https://res.cloudinary.com/ak0tcgzb/image/upload/v1791526450/7025.jpg"
+      alt="flower photo11"
+      loading="lazy"
+    >
+  </div>
+  
+  <div class="nature-card">
+    <img
       src="https://res.cloudinary.com/ak0tcgzb/image/upload/v1786699531/nature_p1.jpg"
       alt="Plant and flower photograph"
       loading="lazy"
