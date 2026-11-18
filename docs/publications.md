@@ -1,6 +1,9 @@
 # Publications
 
 ## 2026
+
+- Hegde, S. N., **Kumari, R.**, Beni, L., Kumar, N., Peter, A. H., Anusha, Murray-Rust, P., Worthington, S., & Yadav, G. (2026). Rapid Scoping Review of Climate Literature using Encyclopedia and KGs (Version v1) [Graphic]. Zenodo. 5th Symposium of the UK Interest Group on Knowledge Graphs, City St George's, University of London. [https://doi.org/10.5281/zenodo.24184481](https://doi.org/10.5281/zenodo.24184481)
+
 - **Kumari R**, Kumari S, Jadhav SS, Pandey J, Umra M, Chahal P, Yadav G (2026) Structural divergence of stress-inducible HMGR isoforms underpins abiotic stress tolerance in chickpea, Biochemical and Biophysical Research Communications,830, 154202.[https://doi.org/10.1016/j.bbrc.2026.154202](https://www.sciencedirect.com/science/article/pii/S0006291X26009666)
 
 - Chahal P, Agarwal U, Umra M, **Kumari R**, Barbhuiya S, Naqvi AM, Simon W, Yadav G & Murray-Rust P (2026). A Scientific-Literature Question-Answering Pipeline Using Retrieval-Augmented Generation (RAG) (Version 0.1) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.21803196](https://doi.org/10.5281/zenodo.21803196)
